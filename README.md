@@ -29,7 +29,8 @@ Users will log into honeypot using Passport authentication to track in-app savin
 
 ## Ownership
 
-- **Server** - Marina
-- **Database** - Brendan
+- **Server/Database** - Marina
 - **Bank API** - Connor
 - **Client** - Chris & Grace
+- **Product Owner** - Grace
+- **Scrum Master** - Brendan
